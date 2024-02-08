@@ -1,0 +1,6 @@
+@CauzziAuctionAPI_HostAddress = http://localhost:5255
+
+GET {{CauzziAuctionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
